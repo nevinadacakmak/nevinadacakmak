@@ -1,1 +1,7 @@
-### Hi there 👋 I am Ada (she/her), a Computer Science student in University of Toronto
+### Hi there 👋 I am Ada (she/her), a 3rd year Computer Science student at the University of Toronto.
+
+#### My main interests are data science, psychology, and machine learning. In addition, I like volunteering in robotics programs, sketching, or binge watching The Good Place.
+
+#### If you'd like to chat or if I can be helpful, please reach out!
+
+#### More: [nevinadacakmak.com](nevinadacakmak.com)
