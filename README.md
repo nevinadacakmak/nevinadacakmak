@@ -4,4 +4,4 @@
 
 #### If you'd like to chat or if I can be helpful, please reach out!
 
-#### More: [nevinadacakmak.com](nevinadacakmak.com)
+#### More: nevinadacakmak.com
