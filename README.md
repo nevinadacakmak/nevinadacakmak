@@ -1,6 +1,6 @@
-### Hi there 👋 I am Ada (she/her), a 3rd year Computer Science student at the University of Toronto.
+### Hi there 👋 I am Ada (she/her), a Computer Science student at the University of Toronto.
 
-#### My main interests are robotics, low-level programming, machine learning, and psychology. In addition, I like volunteering in robotics programs, sketching, or binge watching The Good Place.
+#### My main interests are systems programming, firmware engineering, robotics, and psychology. I have been participating and volunteering for robotics programs for over 9 years. In addition, I like sketching, or binge watching The Good Place.
 
 #### If you'd like to chat or if I can be helpful, please reach out!
 
